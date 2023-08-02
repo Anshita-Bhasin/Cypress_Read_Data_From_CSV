@@ -7,5 +7,5 @@ Additionally, we use the Faker API from the Faker.js library to generate unique 
 
 
 For the set- up, please refer to the medium blog here - 
-
+https://medium.com/@anshita.bhasin/read-csv-data-in-cypress-57b1792c6945
 
