@@ -13,4 +13,8 @@ https://medium.com/@anshita.bhasin/read-csv-data-in-cypress-57b1792c6945
 Ref — https://www.npmjs.com/package/@faker-js/faker, https://npm.io/package/neat-csv
 
 
+Practise Website - https://naveenautomationlabs.com/opencart/index.php?route=account/register
 
+
+
+![image](https://github.com/Anshita-Bhasin/Cypress_Read_Data_From_CSV/assets/10338077/a1583b5f-2327-4c4b-ba38-f74db694a54e)
