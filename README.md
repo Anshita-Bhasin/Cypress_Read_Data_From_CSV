@@ -17,4 +17,7 @@ Practise Website - https://naveenautomationlabs.com/opencart/index.php?route=acc
 
 
 
+![image](https://github.com/Anshita-Bhasin/Cypress_Read_Data_From_CSV/assets/10338077/fbbacc1f-49b4-4a53-a276-c970621d54c1)
+
+
 ![image](https://github.com/Anshita-Bhasin/Cypress_Read_Data_From_CSV/assets/10338077/a1583b5f-2327-4c4b-ba38-f74db694a54e)
